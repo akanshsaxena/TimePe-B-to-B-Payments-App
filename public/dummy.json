@@ -1,0 +1,61 @@
+{
+  "name": "Akansh Saxena",
+  "send": [
+    {
+      "receiver_name": "Akansh Saxena",
+      "amount": 1500,
+      "sender_name": "Chinmay Pandey",
+      "request_status": "payment_request"
+    },
+    {
+      "receiver_name": "Rakshika Bawari",
+      "amount": 1500,
+      "sender_name": "Chinmay P",
+      "request_status": "payment_complete"
+    },
+    {
+      "receiver_name": "Chinmay ",
+      "amount": 1500,
+      "sender_name": "Akansh Saxena",
+      "request_status": "payment_failed"
+    },
+    {
+      "receiver_name": "Rakshika Bawari",
+      "amount": 1500,
+      "sender_name": "Chinmay P",
+      "request_status": "payment_complete"
+    },
+    {
+      "receiver_name": "Rakshika Bawari",
+      "amount": 1500,
+      "sender_name": "Chinmay P",
+      "request_status": "payment_complete"
+    },
+    {
+      "receiver_name": "Rakshika Bawari",
+      "amount": 1500,
+      "sender_name": "Chinmay P",
+      "request_status": "payment_complete"
+    }
+  ],
+  "received": [
+    {
+      "receiver_name": "Akansh Saxena",
+      "amount": 1500,
+      "sender_name": "Chinmay Pandey",
+      "request_status": "payment_complete"
+    },
+    {
+      "receiver_name": "Rakshika Bawari",
+      "amount": 1500,
+      "sender_name": "Chinmay P",
+      "request_status": "payment_failed"
+    },
+    {
+      "receiver_name": "Chinmay ",
+      "amount": 1500,
+      "sender_name": "Akansh Saxena",
+      "request_status": "payment_request"
+    }
+  ]
+}
