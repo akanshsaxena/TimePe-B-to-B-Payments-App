@@ -40,7 +40,7 @@ export default function SendRequestModel({ setVisibility }) {
       try {
         dispatch(changeIsLoading({ isLoading: true }));
         const data = JSON.stringify({
-          phoneNumber: ` 91${number}`,
+          phoneNumber: `91${number}`,
           amount: amount
         });
         const config = {
